@@ -16,7 +16,7 @@ Create a TODO list application that allows users to add and delete tasks.
 
 ## 💡 Tips to finish this project
 
-Do not go straight to the code, think first and have a viable trategy.
+Do not go straight to the code, think first and have a viable strategy.
 
 - What components will you create? Draw the project on a white paper and identify components.
 - Where are the stasks going to be stored in your component?
