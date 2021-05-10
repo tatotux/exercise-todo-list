@@ -34,4 +34,4 @@ No te pongas a codificar de inmediato, piensa primero y prepara una estrategia v
 
 - ¿Qué componentes crearás? Dibuja tu proyecto en una hoja de papel e identifica los componentes.
 - ¿Dónde se almacenarán las tareas en tu componente?
-- Lee sobre [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c&t=15s), ya que deberá scomprender el concepto.
+- Lee sobre [controlled components inputs in react.js](https://www.youtube.com/watch?v=A6YxkyR_T8c&t=15s), ya que deberás comprender el concepto.
